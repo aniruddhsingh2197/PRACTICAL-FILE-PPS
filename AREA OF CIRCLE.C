@@ -7,5 +7,5 @@ int main()
   scanf("%f", &radius);
   area= 3.14*radius*radius;
   printf("\n Area = %f", area);
-  return0;
+  return 0;
 }
